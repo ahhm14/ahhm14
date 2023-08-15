@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alejandro Hernandez</h1>
 <h3 align="center">Power Systems Engineer and Data Science Researcher</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/ahhm14](https://github.com/ahhm14)
+
+- 📫 How to reach me **ahmatheus95@gmail.com**
+
+- ⚡ Fun fact **I think I am funny sometimes.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-hernandez-matheus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-hernandez-matheus/" height="30" width="40" /></a>
