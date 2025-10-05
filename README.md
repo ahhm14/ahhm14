@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ahmatheus95@gmail.com**
 
-- ⚡ Fun fact **I think I am funny sometimes.**
+- ⚡ Fun fact **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
